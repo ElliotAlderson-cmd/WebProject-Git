@@ -6,7 +6,7 @@ export default function About() {
     <div className='about'>
       <div className='aboutTitle'>
         <h1>About</h1>
-        <p className='para'> Testing reader-san ! Welcome to SenpaiReads. This a website built to celebrate the love and passion
+        <p className='para'> Konnichiwa reader-san ! Welcome to SenpaiReads. This a website built to celebrate the love and passion
         of anime and manga fans all over the world.</p>
         <p className='subPara'>We welcome you to our community. Have fun !!</p>
       </div>
